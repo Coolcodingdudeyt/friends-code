@@ -1,0 +1,108 @@
+body{
+    background-color: gray;
+    background-image: url(); /*change image*/
+}
+#navbar{
+    width: 100%;
+    position: fixed;
+    margin: 0 auto;
+    margin-top: 0vh;
+    top: 0%;
+    background-color: yellow;
+    padding: 10px;
+    margin-left: -8px;
+}
+#topb{
+    background-color: aliceblue;
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+    padding: 5px;
+}
+#ruleb{
+    background-color: aliceblue;
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+    padding: 5px;
+}
+#aboutb{
+    background-color: aliceblue;
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+    padding: 5px;
+}
+#applyb{
+    background-color: aliceblue;
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+    padding: 5px;
+}
+#modb{
+    background-color: aliceblue;
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+    padding: 5px;
+}
+#top{
+    height: 100vh;
+    width: 193vh;
+    margin-top: auto;
+    display: flex;
+    background-color: green;
+    margin-left: -1vh;
+}
+#section1{
+    height: 100%;
+}
+#text1{
+    margin-left: 10vh;
+    margin-top: 5vh;
+}
+#p1{
+    margin-left: 10vh;
+    font-size: 30px;
+}
+#rule{
+    height: 100cap;
+    width: 193vh;
+    background-color: brown;
+    margin-left: -1vh;
+}
+#ruled{
+    margin-top: 0vh;
+    display: flex;
+}
+#rulet{
+    margin-top: 10vh;
+    margin-left: 9vh;
+}
+#rulep{
+    margin-top: 18vh;
+    margin-left: -29vh;
+    font-size: 30px;
+}
+
+#about{
+    height: 101vh;
+    width: 193vh;
+    background-color: white;
+    margin-left: -1vh;
+    margin-bottom: -1rem;
+}
+#aboutd{
+    margin-top: 0vh;
+    display: flex;
+}
+#aboutt{
+    margin-top: 10vh;
+    margin-left: 9vh;
+}
+#aboutp{
+    margin-top: 18vh;
+    margin-left: -5vh;
+    font-size: 30px;
+}
