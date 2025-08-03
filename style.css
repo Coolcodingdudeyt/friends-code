@@ -71,6 +71,7 @@ body{
     width: 193vh;
     background-color: brown;
     margin-left: -1vh;
+    margin-bottom: -1rem;
 }
 #ruled{
     margin-top: 0vh;
